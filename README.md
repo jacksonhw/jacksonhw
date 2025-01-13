@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am an electrical and computer engineering student at Temple University. 
 <!--
 **jacksonhw/jacksonhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
